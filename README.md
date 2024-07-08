@@ -77,7 +77,7 @@ git clone https://github.com/tammygeronimo/ITMS.git
 1. Launch the application following the instructions above.
 2. Use the inventory management features to add, edit, or delete items.
 3. Record transactions to update inventory levels.
-4. Explore the user-friendly interface provided by FlatLa
+4. Explore the user-friendly interface provided by FlatLaf.
 
 ### Contributing
 
@@ -89,6 +89,7 @@ If you wish to contribute to this project, please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
