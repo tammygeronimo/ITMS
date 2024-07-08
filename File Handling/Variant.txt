@@ -1,0 +1,4 @@
+V001	variant A
+V002	variant B
+V003	variant C
+VAR1	Variant E

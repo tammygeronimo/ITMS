@@ -1,0 +1,5 @@
+S001	supplier A	EC-LPS1	ThinkPad	P001	small	V001	variant A	40.0
+S002	supplier B	EC-LPL3	Alienware	P003	large	V001	variant A	25.0
+S001	supplier A	CL-JKS1	Gnarly-Small	P001	small	V001	variant A	20.0
+S001	supplier A	MARKET.P3.V3	Milk.L.VC	P003	large	V003	variant C	9.0
+S001	supplier A	prodcode	for Ely	Fuckaging	Fuck123	VAR1	Variant E	5.0

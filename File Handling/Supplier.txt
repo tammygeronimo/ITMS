@@ -1,0 +1,4 @@
+S001	supplier A
+S002	supplier B
+S003	supplier C
+armel	john

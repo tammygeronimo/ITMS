@@ -1,0 +1,8 @@
+electronic	laptop	P001	small	V001	variant A	ELECT.P1.V1	Laptop.S.VA	500
+clothing	jacket	P002	medium	V002	variant B	CLOTH.P2.V2	Jacket.M.VB	1000
+market	milk	P003	large	V003	variant C	MARKET.P3.V3	Milk.L.VC	1500
+electronic	laptop	P001	small	V001	variant A	EC-LPS1	ThinkPad	16000
+electronic	laptop	P002	medium	V002	variant B	EC-LPM2	Legion	40000
+electronic	laptop	P003	large	V001	variant A	EC-LPL3	Alienware	100000
+clothing	jacket	P001	small	V001	variant A	CL-JKS1	Gnarly-Small	2000
+ESPN124	Supply	Fuckaging	Fuck123	VAR1	Variant E	prodcode	for Ely	10000

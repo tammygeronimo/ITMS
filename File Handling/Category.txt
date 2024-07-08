@@ -1,0 +1,4 @@
+electronic	laptop
+clothing	jacket
+market	milk
+ESPN124	Supply
